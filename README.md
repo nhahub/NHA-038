@@ -151,7 +151,7 @@ A **normalized relational database** (3NF) ensures data integrity, eliminates re
 
 ### Entity Relationship Diagram
 
-![ER Diagram - Normalized Database Schema](Images\ER_Diagram.jpeg)
+![ER Diagram - Normalized Database Schema](Images\Diagram.jpeg)
 
 **Key Features:**
 - ✅ **Referential Integrity**: Foreign keys enforce relationships
@@ -472,12 +472,11 @@ StudentPerformanceAnalysis/
 │   ├── score_by_distribution_by_sub.jpg # Statistical spreads (boxplot)
 │   └── ER-Diagram.jpg                   # Database schema
 │
-├── 📑 Documentation/
-│   ├── Final-report.pdf                 # Comprehensive project report
-│   ├── README.md                        # This file
-│   └── Presentation.pptx                # Presentation slides
-│
-└── 📄 Team_Responsibilities.txt          # Individual contributions
+└── 📑 Documentation/
+    ├── Final-report.pdf                 # Comprehensive project report
+    ├── README.md                        # This file
+    └── Presentation.pptx                # Presentation slides
+
 ```
 
 ---
