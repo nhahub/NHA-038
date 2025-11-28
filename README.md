@@ -151,7 +151,7 @@ A **normalized relational database** (3NF) ensures data integrity, eliminates re
 
 ### Entity Relationship Diagram
 
-![ER Diagram - Normalized Database Schema](Images\Diagram.jpeg)
+![ER Diagram - Normalized Database Schema](Images/Diagram.jpeg)
 
 **Key Features:**
 - ✅ **Referential Integrity**: Foreign keys enforce relationships
@@ -182,7 +182,7 @@ ORDER BY s.Subject_name;
 
 **Results Summary:**
 
-![Top Performers Query - Score Leaders by Subject](Images\Img_I.jpeg)
+![Top Performers Query - Score Leaders by Subject](Images/Img_I.jpeg)
 
 **Key Insights:**
 - 🥇 **Biology**: Multiple perfect scores (100/A grade)
@@ -208,7 +208,7 @@ ORDER BY Attendance_Rate DESC;
 
 **Results Summary:**
 
-![Attendance Query - Engagement by Subject](Images\Img.jpeg)
+![Attendance Query - Engagement by Subject](Images/Img.jpeg)
 
 **Data Breakdown:**
 
@@ -242,7 +242,7 @@ ORDER BY AveragePerSubject ASC;
 
 **Results Summary:**
 
-![Average Score Query - Subject Difficulty Analysis](Images\Img_II.jpeg)
+![Average Score Query - Subject Difficulty Analysis](Images/Img_II.jpeg)
 
 **Performance Difficulty Ranking (Hardest → Easiest):**
 
@@ -265,7 +265,7 @@ ORDER BY AveragePerSubject ASC;
 
 ### 1. Average Score per Subject (Bar Chart)
 
-![Average Score per Subject - Difficulty Levels](Images\avarage_score_per_sub.jpeg)
+![Average Score per Subject - Difficulty Levels](Images/avarage_score_per_sub.jpeg)
 
 **Interpretation:**
 - Shows comparative difficulty across 5 subjects
@@ -277,7 +277,7 @@ ORDER BY AveragePerSubject ASC;
 
 ### 2. Score Distribution (Histogram)
 
-![Score Distribution - Overall Grade Pattern](Images\Distribution_of_score.jpeg)
+![Score Distribution - Overall Grade Pattern](Images/Distribution_of_score.jpeg)
 
 **Statistical Analysis:**
 - **Bimodal Distribution**: Two peaks visible
@@ -294,7 +294,7 @@ ORDER BY AveragePerSubject ASC;
 
 ### 3. Attendance Counts (Bar Chart)
 
-![Attendance Status Distribution - Engagement Overview](Images\attendance_counts.jpeg)
+![Attendance Status Distribution - Engagement Overview](Images/attendance_counts.jpeg)
 
 **Attendance Breakdown:**
 
@@ -315,7 +315,7 @@ ORDER BY AveragePerSubject ASC;
 
 ### 4. Average Score per Student Level (Bar Chart)
 
-![Average Score per Level - Academic Progression](Images\avarage_score_per_s_level.jpeg)
+![Average Score per Level - Academic Progression](Images/avarage_score_per_s_level.jpeg)
 
 **Performance by Academic Year:**
 
@@ -339,7 +339,7 @@ ORDER BY AveragePerSubject ASC;
 
 ### 5. Top 10 Students by Average Score (Horizontal Bar Chart)
 
-![Top 10 Students - High Achievers Recognition](Images\top_students.jpeg)
+![Top 10 Students - High Achievers Recognition](Images/top_students.jpeg)
 
 **Excellence Leaders:**
 
@@ -365,7 +365,7 @@ ORDER BY AveragePerSubject ASC;
 
 ### 6. Score Distribution by Subject (Boxplot)
 
-![Score Distribution by Subject - Statistical Spread](Images\score_by_distribution_by_sub.jpeg)
+![Score Distribution by Subject - Statistical Spread](Images/score_by_distribution_by_sub.jpeg)
 
 **Statistical Analysis per Subject:**
 
